@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @saivijayasandeepgaddam
+- 💻 I’m a data facbric @orgfarm.store who deals with business management performance, Analytics,Dashboards,etc.
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Etl tools
 - 💞️ I’m looking to collaborate on data warehousing
